@@ -1,0 +1,95 @@
+a, Link{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.text:hover{
+    color: gray;
+}
+.text{
+    font-weight: 500;
+    font-size: 22px;
+}
+img{
+    align-content: center;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: white;
+}
+button{
+    align-items: right;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.story{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-top: 0;
+}
+hr{
+    margin-left: 55px;
+    margin-right: 55px;
+    color: orange;
+}
+.Ingre, .clock{
+    height: 320px;
+    margin-top: 0;
+}
+.chef{
+    margin-left: 250px;
+    height: 300px;
+    margin-top: 0;
+}
+h2.ing{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.ing{
+    text-align: left;
+}
+.ing{
+    font-size: 16px;
+}
+#chef1{
+    font-size:16px;
+}
+#chef{
+    margin-top: 50px;
+}
+#chef, #chef1{
+    margin-left: 20px;
+}
+#min{
+    text-align: left;
+    margin-top: 140px;
+}
+footer{
+    font-size: 11px;
+    font-style: italic;
+}
+.cost{
+    text-align: left;
+    text-decoration: solid;
+}
+.bp{
+    margin-top: 15px;
+    margin-left: 300px;
+}
+#bp{
+    border-radius: 5px orange;
+    color: orange;
+    fill: black;
+    
+}
+#add{
+    color: orange;
+}

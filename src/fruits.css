@@ -1,0 +1,25 @@
+.card{
+    border:solid black;
+    border-radius: 5px;
+    margin-top: 25px;
+    width: 500px;
+    margin-left: 350px;
+}
+.row{
+    margin-left: 10px;
+}
+#c{
+    width: 600px;
+}
+.e{
+    text-align: center;
+    margin-left: 70px;
+}
+#comment{
+    overflow: scroll;
+}
+
+
+
+
+

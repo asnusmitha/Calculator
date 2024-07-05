@@ -1,0 +1,49 @@
+.container {
+    margin-top: 30px;
+  }
+  .card:hover {
+    box-shadow: 0 5px 10px black;
+  }
+  .t{
+    text-align: center;
+    margin-top: 70px;
+  }
+  #name {
+    text-align: center;
+    font-size: 15px;
+  }
+  .img {
+    margin-top: 0;
+    height: 90px;
+    width: 100px;
+    text-align: center;
+  }
+  .row {
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  #price {
+    text-align: center;
+  }
+  #card {
+    width: 390px;
+    height: 250px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+  }
+  #cartbtn {
+    width: 90px;
+    margin-left: 20px;
+    font-size: 12px;
+    background-color:lavender;
+    border-color: blueviolet;
+  }
+  #cartbtn:hover{
+    color:sienna;
+  }
+  #bp:hover{
+    color: white;
+    background-color: orange;
+  }
+  

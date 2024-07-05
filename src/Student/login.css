@@ -1,0 +1,76 @@
+.container1 {
+    /* margin-top: 10px; */
+    width: 1225px;
+    height:500px;
+    border: black;
+    align-items: center;
+    /* margin-left: 100px; */
+    /* background-color:lightpink; */
+    background-image: url("https://erocon.in/wp-content/uploads/2018/02/C2-1-1110x550.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    /* perspective: 900px; */
+    position: relative;
+  }
+#card2 {
+    width: 360px;
+    height: 230px;
+    margin-top: 65px;
+    margin-left: 430px;
+    position: relative;
+    background-color:peru;
+    overflow:auto;
+    border-radius: 7px;
+  }
+  .s{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* margin-left: 100px; */
+  }
+  #butn {
+    width: 90px;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color:bisque;
+    border-color:solid slategray;
+    border-radius: 20px;
+  }
+  #butn1 {
+    width: 90px;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color:aquamarine;
+    border-color:solid slategray;
+    border-radius: 20px;
+  }
+  h4{
+    margin-top: 10px;
+    margin-bottom: 23px;
+    color:floralwhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #card3 {
+    width: 360px;
+    height: 230px;
+    /* margin-top: 65px; */
+    position: relative;
+    background-color:cadetblue;
+    overflow:auto;
+    border-radius: 7px;
+    align-items: left;
+  }
+
+  h3{
+    margin-top: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h3id{
+  margin-left: 120px;
+}

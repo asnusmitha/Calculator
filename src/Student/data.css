@@ -1,0 +1,65 @@
+.container2{
+        /* background-image: url("https://www.durhamlane.org.uk/wp-content/uploads/2020/11/Durham_Lane_School_Characters-04-1536x1536.jpg");
+        background-repeat: no-repeat;
+        background-size: 540px; 
+        margin-left: 350px; */
+    width: 1225px;
+    height:500px;
+    border: black;
+    align-items: center;
+    /* perspective: 900px; */
+    
+}
+#img{
+    height: 480px;
+    width: 400px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.col-4{
+    text-align: center;
+}
+#bun {
+    margin-top: 16px;
+    width: 90px;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:whitesmoke;
+    background-color:green;
+    border-color:solid slategray;
+    border-radius: 20px;
+}
+h3{
+    margin-top: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h4{
+    color:brown;
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+     /* border-collapse: collapse;  */
+    /* border-radius: 6px; */
+    width: 70%;
+    height: 30%; 
+    /* margin-left: 40px;
+    margin-top: 0px; */
+   } 
+  td, th {
+    border: 1px solid black;
+    /* border-radius: 100px; */
+    text-align: center;
+    padding: 0px;
+  }
+  tr:nth-child(even) {
+    background-color: lemonchiffon;
+  }
+  tr:nth-child(odd) {
+    background-color:navajowhite
+  }
+  th{
+    background-color:burlywood;
+  } 
